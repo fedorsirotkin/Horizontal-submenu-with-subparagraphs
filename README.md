@@ -1,2 +1,2 @@
-# Horizontal-submenu-with-subparagraphs
-Horizontal submenu with subparagraphs
+# Горизонтальное меню c выпадающими подпунктами
+Анимированное выпадающее меню на CSS без использования JavaScript.
